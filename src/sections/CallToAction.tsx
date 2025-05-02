@@ -30,7 +30,7 @@ const CallToAction = () => {
               </div>
               <div className="text-center">
                 <span className="text-4xl font-bold text-primary-600">
-                  $9,999 MXN
+                  $2,000 MXN
                 </span>
                 <p className="text-secondary-500 text-sm">
                   Pago único

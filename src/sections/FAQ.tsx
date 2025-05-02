@@ -11,22 +11,22 @@ const faqs: FAQ[] = [
   {
     id: 2,
     question: '¿Qué herramientas o software necesitaré?',
-    answer: 'Solo necesitarás una computadora con conexión a internet. Te proporcionaremos acceso a todas las herramientas y plataformas necesarias durante el curso.',
+    answer: 'Solo necesitarás una computadora con conexión a internet. Es recomendable tener una cuenta en alguna plataforma de inteligencia artificial como ChatGPT o Perplexity para practicar durante el curso. Te proporcionaremos acceso a todas las herramientas y plataformas necesarias durante el curso.',
   },
   {
     id: 3,
     question: '¿Obtendré un certificado al finalizar?',
-    answer: 'Sí, al completar satisfactoriamente el curso recibirás un certificado digital que acredita tu participación y conocimientos adquiridos.',
+    answer: 'Sí, al completar satisfactoriamente el curso recibirás una Constancia que acredita tu participación. Los requisitos específicos de participación y asistencia se definirán al inicio del curso.',
   },
   {
     id: 4,
     question: '¿Cómo se desarrollan las sesiones a distancia?',
-    answer: 'El curso se imparte a través de nuestra plataforma en línea, con sesiones en vivo, material grabado, ejercicios prácticos y foros de discusión. Puedes acceder al contenido en cualquier momento.',
+    answer: 'El curso se imparte a través de nuestra plataforma en línea, utilizando Google Meet para las sesiones en vivo. Además, tendrás acceso a material grabado, ejercicios prácticos y foros de discusión. Puedes acceder al contenido en cualquier momento.',
   },
   {
     id: 5,
     question: '¿Habrá soporte después del curso?',
-    answer: 'Sí, ofrecemos soporte continuo a través de nuestra comunidad en línea y sesiones de seguimiento para resolver dudas y compartir experiencias.',
+    answer: 'Sí, ofrecemos soporte continuo a través de un grupo de WhatsApp exclusivo para egresados, el cual estará activo hasta dos meses después de finalizar el curso.',
   },
 ];
 

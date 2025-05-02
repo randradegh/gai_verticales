@@ -42,10 +42,10 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="relative flex justify-center items-center"
           >
-            <div className="relative w-full max-w-lg">
+            <div className="relative w-full max-w-[600px]">
               {/* Decorative elements */}
-              <div className="absolute -top-4 -right-4 w-72 h-72 bg-primary-200 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob"></div>
-              <div className="absolute -bottom-8 left-20 w-72 h-72 bg-secondary-200 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob animation-delay-2000"></div>
+              <div className="absolute -top-4 -right-4 w-[27rem] h-[27rem] bg-primary-200 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob"></div>
+              <div className="absolute -bottom-8 left-20 w-[27rem] h-[27rem] bg-secondary-200 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob animation-delay-2000"></div>
               
               {/* Card container */}
               <div className="relative">
@@ -53,9 +53,9 @@ const Hero = () => {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary-500 to-primary-600 rounded-2xl transform rotate-3 scale-105"></div>
                 
                 {/* Main card */}
-                <div className="relative bg-white rounded-2xl shadow-xl p-4">
+                <div className="relative bg-white rounded-2xl shadow-xl p-6">
                   {/* Image container */}
-                  <div className="aspect-w-16 aspect-h-9 mb-4 rounded-lg overflow-hidden">
+                  <div className="aspect-w-16 aspect-h-12 mb-6 rounded-xl overflow-hidden">
                     <img
                       src="https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
                       alt="IA Generativa en el trabajo"
@@ -75,7 +75,7 @@ const Hero = () => {
                         ))}
                       </div>
                       <span className="text-sm font-medium text-secondary-600 ml-2">
-                        +100 profesionales ya inscritos
+                        +7 profesionales ya inscritos
                       </span>
                     </div>
                     <div className="flex items-center">
