@@ -25,5 +25,8 @@
         "cache-control": "no-cache, no-store, must-revalidate"
       }
     }
-  ]
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  }
 } 
