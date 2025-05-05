@@ -1,5 +1,3 @@
-import { motion } from 'framer-motion';
-
 const Footer = () => {
   return (
     <footer className="py-8 bg-secondary-900 text-white">
