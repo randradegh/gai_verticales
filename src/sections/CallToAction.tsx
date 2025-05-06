@@ -38,7 +38,7 @@ const CallToAction = () => {
               </div>
               <div className="flex flex-col gap-2">
                 <p className="text-secondary-700 text-base font-semibold mb-2">
-                  Para inscribirte, manda un correo a <a href="mailto:randradedev@gmail.com" className="text-primary-600 underline">randradedev@gmail.com</a> solicitando la inscripción al curso "Curso IA Generativa MX".<br/>
+                  Para inscribirte, manda un correo a <a href="mailto:randradedev@gmail.com" className="text-primary-600 underline">randradedev@gmail.com</a> solicitando la inscripción al "Curso IA Generativa MX".<br/>
                   A vuelta de correo se te solicitarán algunos datos académicos y se te detallará la forma de pago del curso.
                 </p>
                 <p className="text-sm text-secondary-500">
