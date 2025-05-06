@@ -21,7 +21,10 @@ const Hero = () => {
               Domina la IA Generativa y Transforma tu Carrera Profesional en México
             </h1>
             <p className="text-lg md:text-xl text-secondary-600 mb-8">
-              Curso de 15 horas diseñado para profesionales: aprende a aplicar LLMs y prompting efectivo en tu sector
+              Curso de 15 horas diseñado para profesionales: aprende a aplicar LLMs y prompting efectivo en tu sector.
+            </p>
+            <p className="text-lg md:text-xl text-secondary-600 mb-8">
+              Aprenderás a usar modelos de IA como ChatGPT, Claude, Gemini, entre otros, para varias verticales.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a href="#cta" className="btn btn-primary">

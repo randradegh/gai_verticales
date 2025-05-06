@@ -21,7 +21,7 @@ const faqs: FAQ[] = [
   {
     id: 4,
     question: '¿Cómo se desarrollan las sesiones a distancia?',
-    answer: 'El curso se imparte a través de nuestra plataforma en línea, utilizando Google Meet para las sesiones en vivo. Además, tendrás acceso a material grabado, ejercicios prácticos y foros de discusión. Puedes acceder al contenido en cualquier momento.',
+    answer: 'El curso se imparte a través de nuestra plataforma en línea, utilizando Google Meet para las sesiones en vivo. Además, tendrás acceso a videos, ejercicios prácticos y otros materiales. Puedes acceder al contenido en cualquier momento.',
   },
   {
     id: 5,
