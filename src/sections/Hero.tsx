@@ -23,6 +23,11 @@ const Hero = () => {
             <p className="text-lg md:text-xl text-secondary-600 mb-8">
               Curso de 15 horas diseñado para profesionales: aprende a aplicar LLMs y prompting efectivo en tu sector.
             </p>
+            <p className="text-lg md:text-xl text-primary-600 font-semibold mb-8">
+              19 al 23 de mayo de 2025<br/>
+              18:00 a 21:00 hrs<br/>
+              Vía Google Meet
+            </p>
             <p className="text-lg md:text-xl text-secondary-600 mb-8">
               Aprenderás a usar modelos de IA como ChatGPT, Claude, Gemini, entre otros, para varias verticales.
             </p>
